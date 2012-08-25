@@ -1,5 +1,5 @@
-odd_verify.py, a tool to recompute Original Decision data from your Canon EOS DSLR
-----------------------------------------------------------------------------------                                                              
+odd_verif.py, a tool to recompute Original Decision data from your Canon EOS DSLR
+---------------------------------------------------------------------------------                                                              
 
 Introduction
 ************
@@ -96,8 +96,11 @@ Installation
 written for python 2.6
 
 provided files:
-- odd_verify.py
+- odd_verif.py
 - PyTiffParser.py, a class to parse metadata information from jpeg and TIFF files.
+- ODD_samples/, some pictures with ODD and keys (keys.txt, per BodyID)
+- readme.txt, this file
+- license.txt, this software in under GPL2 license
 
 
 Compatibility

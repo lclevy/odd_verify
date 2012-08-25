@@ -2,6 +2,8 @@
 # version 0.6 (24jun2012)
 # Laurent Clevy, http://lclevy.free.fr/cr2
 #
+# under GPLv2 license. http://www.gnu.org/licenses/gpl-2.0.html
+#
 # check Original Decision Data hash values from Canon DSLR in CR2 and jpeg
 # syntax: python odd_verif.py image_file device_key
 
